@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @charlyr95 but you can call me just Charly
+- 👋 Hi, I’m @charlyr95. Programming my life... </>
 - 👀 I’m interested on creating content to show my work and expand my knoledge.
-- 🌱 I’m currently learning Python, currently, programming is my second life.
+- 🌱 I’m currently learning Python, Java, and Data Eng. Programming is my second life.
 - 💞️ I’m looking to collaborate on machine learning and artificial intelligence
 - 📫 You can find me on my networks: 
 -     carloscr95r@gmail.com
