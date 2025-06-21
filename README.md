@@ -1,12 +1,36 @@
-- 👋 Hi, I’m @charlyr95. Programming my life... </>
-- 👀 I’m interested on creating content to show my work and expand my knoledge.
-- 🌱 I’m currently learning Python, Java, and Google Cloud Data Eng.
-- 💞️ I’m looking to collaborate on machine learning and artificial intelligence
-- 📫 You can find me on my networks: 
--     carloscr95r@gmail.com
--     www.linkedin.com/in/carlos-romero-705103164/
+# 👋 Hola, soy Carlos
 
-<!---
-charlyr95/charlyr95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> _“Automatizo procesos, conecto sistemas, y hago que los datos hablen.”_
+
+⚙️ **Especialista en Automatización Industrial**  
+💻 **Desarrollador en IT / SCADA / PLC / SQL / Python / VBA**  
+🌎 Haciendo que máquinas y humanos se entiendan mejor
+
+---
+
+## 🧠 Especialidades
+
+- Arquitectura SCADA distribuida
+- Integración de instrumentos inteligentes
+- SQL Server & automatización de reportes
+- Frontends ligeros con React
+- Comunicación entre mundos: IoT
+
+---
+
+## 🔍 Lo que me motiva
+
+- Desafíos que mezclan **hardware y software**
+- Diseñar sistemas que "simplemente funcionan"
+- Escribir código que **no necesite manual**
+- Que los logs cuenten historias
+
+---
+
+## 🛠️ Tecnologías que uso
+
+```txt
+PLC:        Rockwell • Siemens • Schneider
+SCADA:      iFIX • WinCC • FactoryTalk View
+IT:         Python • VBA • JavaScript • React • SQL
+Otros:      XML • OPC UA • WebSockets • Git
