@@ -2,7 +2,7 @@
 
 > _“Automatizo procesos, conecto sistemas, y hago que los datos hablen.”_
 
-⚙️ **Especialista en Automatización Industrial**  
+⚙️ **Especialista en Automatización Industrial y RPA**  
 💻 **Desarrollador en IT / SCADA / PLC / SQL / Python / VBA**  
 🌎 Haciendo que máquinas y humanos se entiendan mejor
 
@@ -15,6 +15,7 @@
 - SQL Server & automatización de reportes
 - Frontends ligeros con React
 - Comunicación entre mundos: IoT
+- Procesos automatizados
 
 ---
 
