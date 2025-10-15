@@ -1,6 +1,6 @@
 # 👋 Hola, soy Carlos
 
-> _“Automatizo procesos, conecto sistemas, y hago que los datos hablen.”_
+> _“Automatizo procesos, conecto sistemas y transformo datos en decisiones.”_
 
 ⚙️ **Especialista de Automatización y Desarrollador IT**  
 💻 **Experto en SCADA, PLC, SQL y desarrollo de herramientas para operación industrial**  
